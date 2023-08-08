@@ -1,7 +1,7 @@
 # LLM-ScienceExam
 The aim of the project is to use Large Language Model to answer difficult science questions. To approach this task we will be using the PACE frame-work that is an accronym for a 4 stage approach Plan, Analyze, Construct and Execute.
 ## Plan :
-    1. Goal : To use an LLM Model and use it to answer science related questions.
+    1. Goal: To use an LLM Model and use it to answer science related questions.
     2. Approach : Fine tuning either the top few layers or adding customized layers on top of the built in layers and train them with the data at hand.
     3. Startegies : 
         1. Data : Data sets uploaded in the repository. Seperate training and testing data files.
