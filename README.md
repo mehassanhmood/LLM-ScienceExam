@@ -7,7 +7,7 @@ The aim of the project is to use Large Language Model to answer difficult scienc
       1. Data : Data sets uploaded in the repository. Seperate training and testing data files.
       2. KPI's : Accuracy.
       3. Tools : Python, Scikit-learn, Tensorflow and more.
-      4. Details about the production environment:[Production Conda Environment](config.yml)
+      4. Details about the production environment: [Production Conda Environment](config.yml)
       5. Deliverables for plan stage : Structured initial pathway to project completion via README file.
 ## Analyze :
   1. Data transformations as required.
